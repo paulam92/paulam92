@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...szakacsmpaula@gmail.com
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I have a toddler :D
+- ⚡ Fun fact: ...I'm a Polyglot :D
 -->
