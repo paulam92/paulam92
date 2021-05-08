@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...my Portfolio Website
-- 🌱 I’m currently learning ... Html,CSS,SASS,Bootstrap,JAvascript,MERN
+- 🌱 I’m currently learning ... Html,CSS,SASS,Bootstrap,Javascript,MERN
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...anything
