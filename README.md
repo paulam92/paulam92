@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...my Portfolio Website,Super Mario game, In Memoriam Website, Restaurant Webpage..
+- 🔭 I’m currently working on ...MERN Showcase App
 - 🌱 I’m currently learning ... Html,CSS,SASS,Bootstrap,Javascript,MERN
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
