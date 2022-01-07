@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...MERN Showcase App
-- 🌱 I’m currently learning ... Html,CSS,SASS,Bootstrap,Javascript,MERN
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...szakacsmpaula@gmail.com
+- 🔭 I’m currently working on ...Final Project, Portfolio
+- 🌱 I’m currently learning ... Mern Full Stack
+- 👯 I’m looking to collaborate on ... interesting projects
+- 🤔 I’m looking for help with ... anything
+- 💬 Ask me about ... feel free to ask
+- 📫 How to reach me: ...https://www.linkedin.com/in/paula-mark
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I'm a Polyglot :D
 -->
