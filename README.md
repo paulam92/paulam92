@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... my Skills
-- 🌱 I’m currently learning ... C#, WPF, XAML, MSSQL, PIM
+- 🌱 I’m currently learning ... C#, WPF, XAML, MSSQL, .NET
 - 👯 I’m looking to collaborate on ... fun projects like games
 - 🤔 I’m looking for help with ... feel free to ask
 - 💬 Ask me about ... whatever you want
